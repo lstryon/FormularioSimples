@@ -1,0 +1,38 @@
+body{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.newdesignfile.com%2Fpostpic%2F2015%2F07%2Fcartoon-clouds-backgrounds-vector_133974.jpg&f=1&nofb=1");
+    background-size: cover;
+}
+
+.alinhamento{
+    text-align: center;
+}
+
+#formulario{
+    width: 200px;
+    background-color: rgba(0,0,0, .5);
+    padding: 20px;
+    margin: auto;  
+}
+
+label{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+form, input{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+input[type="submit"]{
+    background-color:violet;
+    text-transform: uppercase;
+}
+
+form, select{
+    width: 100%;
+    box-sizing: border-box;
+}
